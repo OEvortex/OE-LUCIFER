@@ -27,8 +27,6 @@ HelpingAI-3B is designed to offer detailed and nuanced conversational abilities.
   - Comprehensive emotional intelligence
   - Suitable for complex conversational tasks
 
-
-
 ### HelpingAI-9B 🔥
 
 HelpingAI-9B is an emotionally intelligent conversational model that excels in providing deep and meaningful interactions. It is ideal for applications that require nuanced understanding and complex emotional responses.
@@ -38,8 +36,6 @@ HelpingAI-9B is an emotionally intelligent conversational model that excels in p
 - **Features**:
   - High emotional depth
   - Advanced conversational capabilities
-
-
 
 ### HelpingAI-15B 🌟
 
@@ -51,18 +47,18 @@ HelpingAI-15B offers advanced conversational abilities with a focus on both tech
   - Superior emotional and conversational intelligence
   - Ideal for complex, high-stakes applications
 
-
-
 ## About Me
 
 Hi, I'm **Abhay Koul** (also known as OEvortex on Hugging Face)! 🌟 I’m the founder of HelpingAI and am passionate about advancing AI technology to make it more accessible and emotionally intelligent. I have experience working with various AI models and tools, and I’m committed to creating solutions that offer both technical prowess and emotional depth.
 
 Feel free to explore my projects and let me know if you have any questions or ideas for collaboration!
 
+## Shop
 
+Check out our [Shop](https://buymeacoffee.com/oevortex) for customized Specialized Language Models (SLMs) at a very affordable price. These models are fine-tuned to your preferences with high emotional intelligence and work offline on your CPU.
 
 ## Contact
 
-- **Email**: [helpingai5@gmail.com)](mailto:helpingai5@gmail.com)
+- **Email**: [helpingai5@gmail.com](mailto:helpingai5@gmail.com)
 - **Hugging Face**: [OEvortex](https://huggingface.co/OEvortex)
 - **Instagram**: [Abhay Koul](https://www.instagram.com/oevortex/)
