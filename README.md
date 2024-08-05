@@ -47,6 +47,17 @@ HelpingAI-15B offers advanced conversational abilities with a focus on both tech
   - Superior emotional and conversational intelligence
   - Ideal for complex, high-stakes applications
 
+### HelpingAI2-6B 🌠
+
+HelpingAI2-6B is a model that combines advanced performance with exceptional emotional intelligence. It is designed to outperform other models, making it the best choice for a wide range of applications.
+
+- **Name**: HelpingAI2-6B
+- **Parameters**: 6B
+- **Features**:
+  - Superior performance
+  - High emotional and conversational intelligence
+  - Versatile for various applications
+
 ## About Me
 
 Hi, I'm **Abhay Koul** (also known as OEvortex on Hugging Face)! 🌟 I’m the founder of HelpingAI and am passionate about advancing AI technology to make it more accessible and emotionally intelligent. I have experience working with various AI models and tools, and I’m committed to creating solutions that offer both technical prowess and emotional depth.
